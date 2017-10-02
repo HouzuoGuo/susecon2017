@@ -1,2 +1,1 @@
-# susecon2017
-My SUSECON 2017 presentation materials
+The materials were prepared for SUSECON 2017.
